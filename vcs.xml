@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/Vikramank/CIFAR-Android-TF.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JPLeoRX/image-classifier.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\mySofeWare\ProjectCode\AndroidStudioProjects" />
